@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\FirstControlWork2\arm64\Debug\FirstControlWork2.vcxproj.AssemblyReference.cache
+\\Mac\Home\Desktop\FirstControlWork2\arm64\Debug\FirstControlWork2.vcxproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\FirstControlWork2\arm64\Debug\FirstControlWork2.exe
+\\Mac\Home\Desktop\FirstControlWork2\arm64\Debug\FirstControlWork2.ArraySortingForm.resources
+\\Mac\Home\Desktop\FirstControlWork2\arm64\Debug\FirstControlWork2.vcxproj.GenerateResource.cache

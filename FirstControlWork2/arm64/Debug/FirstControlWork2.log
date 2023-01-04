@@ -1,0 +1,7 @@
+﻿  ArraySortingForm.cpp
+\\Mac\Home\Desktop\FirstControlWork2\ArraySortingForm.cpp(7,34): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  ArraySortingPresenter.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  ArraySortingForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FirstControlWork2.vcxproj -> \\Mac\Home\Desktop\FirstControlWork2\arm64\Debug\FirstControlWork2.exe
